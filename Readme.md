@@ -5,3 +5,5 @@ Bubble sort = https://youtu.be/GoGOn_5uwDg
 Linear_search = https://youtu.be/BHVhcW2mf5E
 
 Binary search = https://youtu.be/SYn8j6873mE
+
+bogosort  = https://youtu.be/Dqfcuftu220

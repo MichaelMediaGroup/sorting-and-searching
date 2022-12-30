@@ -2,6 +2,8 @@ import random
 
 to_sort = [5,1,12]
 
+#vid = https://youtu.be/Dqfcuftu220
+
 def bogo_sort(arr):
     def is_sorted(arr):
         for i in range(0,len(arr)-1):
