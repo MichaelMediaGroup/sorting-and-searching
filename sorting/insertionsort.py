@@ -1,3 +1,5 @@
+#video https://youtu.be/dPfNrVi_Oj4
+
 listtest = [2,6,4,12,89,3,69]
 def Insertion_Sort(arr):
     for i in range(1,len(arr)):
