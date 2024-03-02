@@ -11,3 +11,5 @@ bogosort  = https://youtu.be/Dqfcuftu220
 Merge Sort = https://youtu.be/fWT1ltQQm0k
 
 Insertion Sort = https://youtu.be/qIbuVhwRNpg
+
+Quick Sort = https://youtu.be/Bu_TNt2V5Gg
